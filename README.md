@@ -1,2 +1,4 @@
 # EdisonTutorial3-EclipseAndOLED
-http://wp.me/p6V8d2-1l
+
+This is the code from my third Intel Edison tutorial on creating a simle OLED battery monitor using SparkFun blocks.
+
